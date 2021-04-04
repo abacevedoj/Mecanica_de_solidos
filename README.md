@@ -1,4 +1,4 @@
-# Mecanica de solidos
+# Mecánica de sólidos
 Repositorio con Notebooks sobre Mecánica de Sólidos
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abacevedoj/Mecanica_de_solidos/HEAD)
@@ -16,7 +16,7 @@ Notebooks disponibles:
 
 ## Descarga del material
 Se pude clonar el repositorio usando:
-  git clon https://github.com/abacevedoj/An-lisis
+  git clon https://github.com/abacevedoj/Mecanica_de_solidos
 o directamete usar la opción de descarga desde GitHub
 
 ## Instrucciones de instalación
