@@ -12,8 +12,7 @@ Este es un repositorio con notebooks para aprender mecánica de sólidos.
 Los Notebooks de Jupyter permiten interactuar con códigos.
 
 Notebooks disponibles:
-1. [Propiedades de los materiales](https://nbviewer.jupyter.org/github/abacevedoj/Mecanica_de_solidos/blob/main/Propiedades_materiales.ipynb)
-
+1. [Propiedades de los materiales](https://nbviewer.jupyter.org/github/abacevedoj/Mecanica_de_solidos/blob/main/Notebooks/Propiedades_materiales.ipynb)
 
 ## Descarga del material
 Se pude clonar el repositorio usando:
