@@ -1,7 +1,7 @@
 # Mecanica de solidos
 Repositorio con Notebooks sobre Mecánica de Sólidos
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abacevedoj/An-lisis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abacevedoj/Mecanica_de_solidos/HEAD)
 
 Este es un repositorio con notebooks para aprender mecánica de sólidos.
 
@@ -13,7 +13,7 @@ Los Notebooks de Jupyter permiten interactuar con códigos.
 
 Notebooks disponibles:
 1. [Matriz de rigidez global de un elemento de cercha](https://nbviewer.jupyter.org/github/abacevedoj/An-lisis/blob/master/Matriz%20de%20rigidez%20del%20elemento_Cercha.ipynb)
-
+1. [Propiedades de los materiales](https://nbviewer.jupyter.org/github/abacevedoj/Mecanica_de_solidos/tree/main/)
 ## Descarga del material
 Se pude clonar el repositorio usando:
   git clon https://github.com/abacevedoj/An-lisis
